@@ -8,3 +8,4 @@ def solving(num_one, num_two):
     else:
         return multiply
     
+given_one = solving(20, 30)
