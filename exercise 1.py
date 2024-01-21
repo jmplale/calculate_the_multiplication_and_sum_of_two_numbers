@@ -10,3 +10,5 @@ def solving(num_one, num_two):
     
 given_one = solving(20, 30)
 print("The result is:", str(given_one))
+
+given_two = solving(40, 30)
