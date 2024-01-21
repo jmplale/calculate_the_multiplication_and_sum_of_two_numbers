@@ -9,3 +9,4 @@ def solving(num_one, num_two):
         return multiply
     
 given_one = solving(20, 30)
+print("The result is:", str(given_one))
